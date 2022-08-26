@@ -1,5 +1,4 @@
 body {
-    
 }
 
 .principal {
@@ -31,3 +30,11 @@ em strong {
 .beneficios {
 	background: #FFFFFF;
 }
+
+ h2 {
+	text-align: center;
+}
+
+.imagembeneficios {
+	width: 50%;
+} 
